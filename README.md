@@ -10,9 +10,9 @@ Topic: Determinants of Cesarean Section Deliveries in India: A Path Analysis/Str
 
 **Methodology:** Utilizing data from over 699,686 recent births across India, the project constructs a pathway model that includes:
 
-**Latent Variables:** Quality of maternal care and socioeconomic factors.
+1. **Latent Variables:** Quality of maternal care and socioeconomic factors.
 
-**Observed Variables:** Urban-rural status, wealth status, insurance status, and more.
+2. **Observed Variables:** Urban-rural status, wealth status, insurance status, and more.
 
 **Model Estimation:** The analysis was carried out using GSEM in STATA, which allows for complex models involving multiple dependent variable types and interactions.
 
